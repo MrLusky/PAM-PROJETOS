@@ -1,0 +1,42 @@
+<!--
+  ~ Copyright (C) 2023 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     https://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+<resources>
+    <string name="app_name">Filmes</string>
+    <string name="architecture">Interestelar</string>
+    <string name="automotive">A Origem</string>
+    <string name="biology">Matrix</string>
+    <string name="crafts">O Senhor dos Anéis: A Sociedade do Anel</string>
+    <string name="business">Star Wars: Uma Nova Esperança</string>
+    <string name="culinary">O Poderoso Chefão</string>
+    <string name="design">Clube da Luta</string>
+    <string name="ecology">Pulp Fiction</string>
+    <string name="engineering">Gladiador</string>
+    <string name="fashion">O Resgate do Soldado Ryan</string>
+    <string name="finance">Forrest Gump</string>
+    <string name="film">O Rei Leão</string>
+    <string name="gaming">Toy Story</string>
+    <string name="geology">Homem de Ferro</string>
+    <string name="drawing">Batman: O Cavaleiro das Trevas</string>
+    <string name="history">Vingadores: Ultimato</string>
+    <string name="journalism">Pantera Negra</string>
+    <string name="law">Titanic</string>
+    <string name="lifestyle">Avatar</string>
+    <string name="music">O Exterminador do Futuro 2</string>
+    <string name="painting">De Volta para o Futuro</string>
+    <string name="photography">Jurassic Park</string>
+    <string name="physics">Coringa</string>
+    <string name="tech">Oppenheimer</string>
+</resources>
